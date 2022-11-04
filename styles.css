@@ -81,7 +81,6 @@ nav a {
 }
 
 /*Location Page */
-.Location {}
 
 .locpic {
     float: right;
@@ -180,14 +179,3 @@ input[type='submit'] {
     margin-top: 50px;
 }
 
-.livebait {
-
-}
-
-.livefish {
-    
-}
-
-.coldbait {
-
-}
